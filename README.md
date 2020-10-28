@@ -1,7 +1,5 @@
 ### Hi! 👋
 
-<span style="text-align:right;display:block;float:right">hola</span>
-
 ### Computer Science Engineering Student! 💻🚀 @ :mexico:
 
 ### Actively Learning:
