@@ -5,7 +5,7 @@
 ### Actively Learning:
  - Microsoft Azure |  Microsoft 365 ☁
  - C | HTML/CSS | Python | Java ⌨
- - Flutter | Angular 👓
+ - Flutter 👓
  - Agile Practices 🧠
  
 ### Pastimes:
