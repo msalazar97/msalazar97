@@ -9,6 +9,7 @@
  - Agile Practices 🧠
  
 ### Pastimes:
+ - Jogging 🤸‍♂️
  - Star Gazing ✨
  - English Learning 📚
  - Xbox 🎮
