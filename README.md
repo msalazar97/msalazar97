@@ -3,7 +3,7 @@
 ### Computer Science Engineering Student! 💻🚀 @ :mexico:
 
 ### Actively Learning:
- - Microsoft Azure |  Microsoft 365 ☁
+ - Microsoft Azure | Microsoft 365 ☁
  - C | HTML/CSS | Python ⌨
  - Flutter 👓
  - Agile Practices 🧠
