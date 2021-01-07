@@ -1,7 +1,6 @@
 ### Hi! 👋
 
-### Computer Science Engineering Student! 🚀 @ :mexico:
-### Microsoft Learn Student Ambassador! 💻
+### I'm passionate about technology! I find joy in activities related to design, cloud computing, development and active learning. 
 
 ### Actively Learning:
  - Microsoft Azure | Microsoft 365 ☁
