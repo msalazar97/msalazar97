@@ -1,6 +1,7 @@
 ### Hi! 👋
 
-### Computer Science Engineering Student! 💻🚀 @ :mexico:
+### Computer Science Engineering Student! 🚀 @ :mexico:
+### Microsoft Learn Student Ambassador! 💻
 
 ### Actively Learning:
  - Microsoft Azure | Microsoft 365 ☁
