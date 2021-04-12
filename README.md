@@ -1,11 +1,10 @@
 ### Hi! 👋
 
-### I'm passionate about technology! I find joy in activities related to design, cloud computing, development and active learning. 
+### I'm passionate about technology! I find joy in activities related to cloud computing, consulting, development and active learning.
 
 ### Actively Learning:
- - Microsoft Azure | Microsoft 365 ☁
- - C | HTML/CSS | Python ⌨
- - Angular 🖍️
+ - Microsoft Azure | Microsoft 365 | Microsoft Power Platform ☁
+ - C | HTML/CSS | Python | Kotlin ⌨
  - Agile Practices 🧠
  
 ### Pastimes:
