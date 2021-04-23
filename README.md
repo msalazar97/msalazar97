@@ -19,5 +19,4 @@
  - <a href="https://twitter.com/msalazar_97" target="_blank">twitter</a>
  - <a href="https://www.linkedin.com/in/manuel-salazar-avila/" target="_blank">linkedin</a>
  - <a href="https://msalazar97.medium.com/" target="_blank">medium</a>
- - <a href="https://stackoverflow.com/users/14415889/manuel-salazar-avila/" target="_blank">stack overflow</a>
  - <a href="mailto:manuel.salazaravila@outlook.com" target="_blank">email</a>
