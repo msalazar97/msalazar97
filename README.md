@@ -4,7 +4,7 @@
 
 ### Actively Learning:
  - Microsoft Azure | Microsoft 365 | Microsoft Power Platform ☁
- - C | HTML/CSS | Python | Kotlin ⌨
+ - C | Python | T-SQL ⌨
  - Agile Practices 🧠
  
 ### Pastimes:
@@ -17,5 +17,5 @@
 ### Contact Me!
  - <a href="https://msalazar97.github.io" target="_blank">webpage</a>
  - <a href="https://twitter.com/msalazar_97" target="_blank">twitter</a>
- - <a href="https://www.linkedin.com/in/manuel-salazar-avila/" target="_blank">linkedin</a>
+ - <a href="https://www.linkedin.com/in/manuel-alejandro-salazar-avila/" target="_blank">linkedin</a>
  - <a href="mailto:manuel.salazaravila@outlook.com" target="_blank">email</a>
