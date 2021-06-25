@@ -18,4 +18,4 @@
  - <a href="https://msalazar97.github.io" target="_blank">webpage</a>
  - <a href="https://twitter.com/msalazar_97" target="_blank">twitter</a>
  - <a href="https://www.linkedin.com/in/manuel-alejandro-salazar-avila/" target="_blank">linkedin</a>
- - <a href="mailto:manuel.salazaravila@outlook.com" target="_blank">email</a>
+ - <a href="mailto:manuel.salazarav@outlook.com" target="_blank">email</a>
