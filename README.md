@@ -4,7 +4,7 @@
 
 ### Actively Learning:
  - Microsoft Azure | Microsoft 365 | Microsoft Power Platform ☁
- - C | Python | T-SQL ⌨
+ - C | Python ⌨
  - Agile Practices 🧠
  
 ### Pastimes:
