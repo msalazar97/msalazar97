@@ -4,9 +4,10 @@
  - Microsoft 365 | IT Governance | IT Compliance | IT Security | Project Management
  
 ### Pastimes:
+ - Continuous Learning 📚
  - Jogging 🤸‍♂️
  - Star Gazing ✨
- - English Learning 📚
+ - English & German Practice 🦜
  - Xbox 🎮
  - Netflix 📺
  
