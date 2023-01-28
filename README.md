@@ -1,11 +1,7 @@
 ### Hi! 👋
 
-### I'm passionate about technology! I find joy in activities related to cloud computing, consulting, development and active learning.
-
-### Actively Learning:
- - Microsoft Azure | Microsoft 365 | Microsoft Power Platform ☁
- - C | Python ⌨
- - Agile Practices 🧠
+### Not Currently Coding. Instead Doing:
+ - Microsoft 365 | IT Governance | IT Compliance | IT Security | Project Management
  
 ### Pastimes:
  - Jogging 🤸‍♂️
